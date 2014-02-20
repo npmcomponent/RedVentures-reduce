@@ -1,21 +1,11 @@
 {
-  "name": "reduce-component",
+  "name": "redventures-reduce",
   "description": "Array reduce component",
-  "version": "1.0.1",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/redventures/reduce.git"
-  },
+  "version": "1.0.0",
+  "keywords": [
+    "array",
+    "reduce"
+  ],
   "dependencies": {},
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "component": {
-    "scripts": {
-      "reduce": "index.js"
-    }
-  },
-  "main": "./index.js",
   "license": "Apache, Version 2.0"
 }
